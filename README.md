@@ -30,3 +30,22 @@ Start Button: Begins the stopwatch timer.
 Stop Button: Pauses the stopwatch timer.
 Reset Button: Resets the timer to 00:00:00.
 Responsive Design: The layout adjusts to different screen sizes.
+
+
+## TASK3:Tic-tac-toe
+<img width="611" alt="Screenshot 2024-07-17 at 4 31 56 PM" src="https://github.com/user-attachments/assets/e9a5ae13-d00f-469c-8376-1429007d7db3">
+
+Features:
+
+Two Player Game: Players X and O take turns to place their marks on the grid.
+Winner Detection: The game detects and announces the winner based on the classic Tic-Tac-Toe winning patterns.
+Draw Detection: The game announces if it ends in a draw.
+Responsive Design: The game layout is responsive and adapts to different screen sizes.
+Reset and New Game Options: Players can reset the game or start a new game at any point.
+
+Technologies Used:
+
+HTML: Markup for structuring the game layout.
+CSS: Styling for the game components and responsive design.
+JavaScript: Logic for handling game mechanics, including turn management, winner detection, and game reset.
+
