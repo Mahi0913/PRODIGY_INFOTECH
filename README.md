@@ -49,3 +49,22 @@ HTML: Markup for structuring the game layout.
 CSS: Styling for the game components and responsive design.
 JavaScript: Logic for handling game mechanics, including turn management, winner detection, and game reset.
 
+
+## TASK4:Personal portfolio 
+<img width="1510" alt="Screenshot 2024-07-30 at 10 20 47 PM" src="https://github.com/user-attachments/assets/032c38a0-df50-4ec1-9050-bcca7d43979e">
+
+
+Features:
+
+Navigation:Includes sections for Home, About, Projects, and Contact, each with its own dedicated content.
+Project Display: Highlights various projects I have worked on, with images and descriptions of each.
+Contact Form,Social Link icons are present.
+
+Technologies Used:
+
+HTML
+CSS
+JavaScript
+
+
+
