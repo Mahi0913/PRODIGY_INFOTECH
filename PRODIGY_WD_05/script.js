@@ -1,6 +1,6 @@
 "use strict";
 
-const API = "6f62b96f1260239092f572000cfbc3c3";
+const API = "Enter api key";
 
 const dayEl = document.querySelector(".default_day");
 const dateEl = document.querySelector(".default_date");
