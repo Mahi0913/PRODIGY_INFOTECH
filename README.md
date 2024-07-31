@@ -66,5 +66,21 @@ HTML
 CSS
 JavaScript
 
+## TASK5:Weather website
+<img width="1510" alt="Screenshot 2024-07-31 at 7 35 00 PM" src="https://github.com/user-attachments/assets/6938a585-edb1-4714-becb-6f0ebac671eb">
+
+
+Features:
+Check real-time weather updates
+View day weather forecast
+
+Technologies Used:
+HTML
+CSS
+JavaScript
+OpenWeatherMap API
+
+
+
 
 
